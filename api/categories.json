@@ -1,1 +1,1 @@
-[{"name":"announcement","path":"api/categories/announcement.json","slug":"announcement","count":1},{"name":"Rust","path":"api/categories/Rust.json","slug":"Rust","count":1},{"name":"app-develop","path":"api/categories/Rust/app-develop.json","slug":"Rust/app-develop","count":1}]
+[{"name":"Rust","path":"api/categories/Rust.json","slug":"Rust","count":2},{"name":"announcement","path":"api/categories/announcement.json","slug":"announcement","count":1},{"name":"tauri","path":"api/categories/Rust/tauri.json","slug":"Rust/tauri","count":2}]
